@@ -3,10 +3,10 @@ using IPCAProcessor.Models;
 
 System.Text.Encoding.RegisterProvider(System.Text.CodePagesEncodingProvider.Instance);
 
-var extractedFileDirectory = Path.Combine(Environment.CurrentDirectory, "output");
+var extractedFileDirectory = Path.Combine(Environment.CurrentDirectory, "Output");
 Directory.CreateDirectory(extractedFileDirectory);
 
-IPCASeriesDownloader.DownloadAndExtractAsync(extractedFileDirectory);
+await IPCASeriesDownloader.DownloadAndExtractAsync(extractedFileDirectory);
 
 var ipcaSeries = IPCASeries.FromXls(Directory.GetFiles(extractedFileDirectory).Where(f => f.EndsWith("xls")).First());
 

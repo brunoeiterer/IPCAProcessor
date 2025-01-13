@@ -5,7 +5,7 @@ namespace IPCAProcessor.Utils;
 public static class IPCASeriesDownloader {
     private const string Url = "https://ftp.ibge.gov.br/Precos_Indices_de_Precos_ao_Consumidor/IPCA/Serie_Historica/ipca_SerieHist.zip";
 
-    public static async void DownloadAndExtractAsync(string directoryToExtract) {
+    public static async Task DownloadAndExtractAsync(string directoryToExtract) {
         var client = new HttpClient();
         var result = await client.GetAsync(Url);
 
