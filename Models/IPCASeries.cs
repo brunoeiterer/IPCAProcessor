@@ -1,4 +1,5 @@
 using System.Globalization;
+using System.Text;
 using System.Text.Json;
 using CsvHelper;
 using ExcelDataReader;
@@ -82,6 +83,34 @@ public class IPCASeries : Dictionary<int, Dictionary<int, IPCAData>>
         using var writer = new StreamWriter(Path.Combine(OutputPath, "IPCASeries.csv"));
         using var csvWriter = new CsvWriter(writer, CultureInfo.InvariantCulture);
         csvWriter.WriteRecords(flattenedData);
+    }
+
+    public string ToSQL(int fromYear = 0, int fromMonth = 1, int toYear = 9999, int toMonth = 12)
+    {
+        var query = new StringBuilder();
+        query.AppendLine("CREATE TABLE IPCASeries (");
+        query.AppendLine("year INT NOT NULL,");
+        query.AppendLine("month INT NOT NULL,");
+        query.AppendLine("monthlyVariation NUMERIC(10, 2),");
+        query.AppendLine("threeMonthVariation NUMERIC(10, 2),");
+        query.AppendLine("sixMonthVariation NUMERIC(10, 2),");
+        query.AppendLine("twelveMonthVariation NUMERIC(10, 2),");
+        query.AppendLine("yearVariation NUMERIC(10, 2)");
+        query.AppendLine($");{Environment.NewLine}");
+
+        query.AppendLine("INSERT INTO IPCASeries (year, month, monthlyVariation, threeMonthVariation, " +
+            "sixMonthVariation, twelveMonthVariation, yearVariation)");
+        query.AppendLine("VALUES");
+        foreach (var yearKvp in FilterData(fromYear, fromMonth, toYear, toMonth))
+        {
+            foreach (var monthKvp in yearKvp.Value)
+            {
+                query.AppendLine($"({yearKvp.Key}, {monthKvp.Key}, {monthKvp.Value}),");
+            }
+        }
+        query.Replace(',', ';', query.Length - 3, 1);
+
+        return query.ToString();
     }
 
     public void Plot(IPCASeriesType type, int fromYear = 0, int fromMonth = 1, int toYear = 9999, int toMonth = 12)

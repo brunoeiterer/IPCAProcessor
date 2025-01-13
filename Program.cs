@@ -21,3 +21,5 @@ ipcaSeries.Plot(IPCASeriesType.YearVariation, 2010, 1, 2024, 12);
 
 ipcaSeries.ToCSV(2010, 1, 2024, 12);
 
+var sqlData = ipcaSeries.ToSQL(2010, 1, 2024, 12);
+File.WriteAllText(Path.Combine(extractedFileDirectory, "IPCASeries.sql"), sqlData);
