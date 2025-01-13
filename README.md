@@ -8,9 +8,10 @@ Currently, IPCA Processor is able to convert to the following formats, all suppo
 * JSON
 * PNG Graph
 * CSV
+* SQL Dump
 
 ### Planned Formats
-* SQL Dump
+* For now, there are no more planned formats. If you would like a different one, please open an issue.
 
 ## Examples
 The Program.cs available in the project contains examples of how to export the data to all the available formats, and the Output folder contains the formatted data from the examples.
