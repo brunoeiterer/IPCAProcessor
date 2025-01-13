@@ -3,8 +3,10 @@ using ExcelDataReader;
 
 namespace IPCAProcessor.Models;
 
-public class IPCASeries : Dictionary<int, Dictionary<int, IPCAData>> {
-    public static IPCASeries FromXls(string filePath) {
+public class IPCASeries : Dictionary<int, Dictionary<int, IPCAData>>
+{
+    public static IPCASeries FromXls(string filePath)
+    {
         using var reader = ExcelReaderFactory.CreateReader(File.Open(filePath, FileMode.Open));
 
         var ipcaSeries = new IPCASeries();
@@ -14,16 +16,19 @@ public class IPCASeries : Dictionary<int, Dictionary<int, IPCAData>> {
         {
             object[] values = new object[8];
             reader.GetValues(values);
-            if(values.Any(v => v == null) || values[0] is string text && text == "ANO") {
+            if (values[1] == null || values[0] is string text && text == "ANO")
+            {
                 continue;
             }
 
-            if(reader.GetFieldType(0) == typeof(double)) {
+            if (reader.GetFieldType(0) == typeof(double))
+            {
                 year = (int)(double)values[0];
             }
 
             var yearData = ipcaSeries.GetValueOrDefault(year, []);
-            yearData[MonthStringToInt((string)values[1])] = new IPCAData() {
+            yearData[MonthStringToInt((string)values[1])] = new IPCAData()
+            {
                 MonthlyVariation = (double)values[3],
                 ThreeMonthVariation = (double)values[4],
                 SixMonthVariation = (double)values[5],
@@ -37,13 +42,24 @@ public class IPCASeries : Dictionary<int, Dictionary<int, IPCAData>> {
         return ipcaSeries;
     }
 
-    private readonly JsonSerializerOptions JsonSerializerOptions = new() {
+    private readonly JsonSerializerOptions JsonSerializerOptions = new()
+    {
         WriteIndented = true
     };
 
-    public string ToJson() => JsonSerializer.Serialize(this, JsonSerializerOptions);
+    public string ToJson(int fromYear = 0, int fromMonth = 1, int toYear = 9999, int toMonth = 12)
+    {
+        var filteredIPCASeries = this.Where(kvp => kvp.Key >= fromYear && kvp.Key <= toYear)
+            .ToDictionary(kvp => kvp.Key, kvp => kvp.Value
+                .Where(kvp => kvp.Key >= fromMonth && kvp.Key <= toMonth)
+                .ToDictionary(kvp => kvp.Key, kvp => kvp.Value)
+        );
 
-    private static int MonthStringToInt(string month) => month switch {
+        return JsonSerializer.Serialize(filteredIPCASeries, JsonSerializerOptions);
+    }
+
+    private static int MonthStringToInt(string month) => month switch
+    {
         "JAN" => 1,
         "FEV" => 2,
         "MAR" => 3,
