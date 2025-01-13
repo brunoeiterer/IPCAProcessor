@@ -4,12 +4,12 @@
 IPCA (Índice Nacional de Preços ao Consumidor Amplo) is one of the measurements of inflation in Brazil. The historical data about IPCA is made available by IBGE (Instituto Brasileiro de Geografia e Estatística), but it can be cumbersome to process automatically due to the format available. IPCAProcessor is a C# app to convert IPCA historical data to several formats, making it available for research/automation.
 
 ## Supported Formats
-Currently, IPCA Processor is able to convert to the following formats:
-* JSON, with the possibility of filtering by a specific period
-* PNG Graph, it plots and generates a png file by the specified period
+Currently, IPCA Processor is able to convert to the following formats, all supporting filtering by a specific period:
+* JSON
+* PNG Graph
+* CSV
 
 ### Planned Formats
-* CSV
 * SQL Dump
 
 ## Examples

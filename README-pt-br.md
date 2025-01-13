@@ -7,9 +7,9 @@ IPCA (Índice Nacional de Preços ao Consumidor Amplo) é uma das medidas de inf
 Atualmente, o IPCA Processor pode converter para os seguintes formatos, todos suportando filtrar a série histórica por períodos:
 * JSON
 * PNG Graph
+* CSV
 
 ### Formatos Planejados
-* CSV
 * SQL Dump
 
 ## Exemplos
