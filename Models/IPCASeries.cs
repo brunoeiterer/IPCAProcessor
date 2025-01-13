@@ -1,4 +1,6 @@
+using System.Globalization;
 using System.Text.Json;
+using CsvHelper;
 using ExcelDataReader;
 using OxyPlot;
 using OxyPlot.Axes;
@@ -18,7 +20,7 @@ public enum IPCASeriesType
 
 public class IPCASeries : Dictionary<int, Dictionary<int, IPCAData>>
 {
-    private readonly string PlotOutputPath = Path.Combine(Environment.CurrentDirectory, "output");
+    private readonly string OutputPath = Path.Combine(Environment.CurrentDirectory, "output");
 
     public static IPCASeries FromXls(string filePath)
     {
@@ -64,6 +66,23 @@ public class IPCASeries : Dictionary<int, Dictionary<int, IPCAData>>
 
     public string ToJson(int fromYear = 0, int fromMonth = 1, int toYear = 9999, int toMonth = 12) =>
         JsonSerializer.Serialize(FilterData(fromYear, fromMonth, toYear, toMonth), JsonSerializerOptions);
+
+    public void ToCSV(int fromYear = 0, int fromMonth = 1, int toYear = 9999, int toMonth = 12)
+    {
+        var filteredData = FilterData(fromYear, fromMonth, toYear, toMonth);
+        var flattenedData = new Dictionary<string, IPCAData>();
+        foreach (var yearKvp in filteredData)
+        {
+            foreach (var monthKvp in yearKvp.Value)
+            {
+                flattenedData[$"{yearKvp.Key}-{monthKvp.Key}"] = monthKvp.Value;
+            }
+        }
+
+        using var writer = new StreamWriter(Path.Combine(OutputPath, "IPCASeries.csv"));
+        using var csvWriter = new CsvWriter(writer, CultureInfo.InvariantCulture);
+        csvWriter.WriteRecords(flattenedData);
+    }
 
     public void Plot(IPCASeriesType type, int fromYear = 0, int fromMonth = 1, int toYear = 9999, int toMonth = 12)
     {
@@ -112,7 +131,7 @@ public class IPCASeries : Dictionary<int, Dictionary<int, IPCAData>>
             StringFormat = "yyyy/MM",
         });
 
-        using var stream = File.Create(Path.Combine(PlotOutputPath, type switch
+        using var stream = File.Create(Path.Combine(OutputPath, type switch
         {
             IPCASeriesType.MonthlyVariation => "IPCAMonthlyVariation.png",
             IPCASeriesType.ThreeMonthVariation => "IPCAThreeMonthVariation.png",

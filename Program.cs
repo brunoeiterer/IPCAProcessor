@@ -19,3 +19,5 @@ ipcaSeries.Plot(IPCASeriesType.SixMonthVariation, 2010, 1, 2024, 12);
 ipcaSeries.Plot(IPCASeriesType.TwelveMonthVariation, 2010, 1, 2024, 12);
 ipcaSeries.Plot(IPCASeriesType.YearVariation, 2010, 1, 2024, 12);
 
+ipcaSeries.ToCSV(2010, 1, 2024, 12);
+
