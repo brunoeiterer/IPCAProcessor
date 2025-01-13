@@ -1,0 +1,1292 @@
+{
+  "2010": {
+    "1": {
+      "MonthlyVariation": 0.75,
+      "ThreeMonthVariation": 1.54,
+      "SixMonthVariation": 2.22,
+      "TwelveMonthVariation": 4.59,
+      "YearVariation": 0.75
+    },
+    "2": {
+      "MonthlyVariation": 0.78,
+      "ThreeMonthVariation": 1.91,
+      "SixMonthVariation": 2.86,
+      "TwelveMonthVariation": 4.83,
+      "YearVariation": 1.54
+    },
+    "3": {
+      "MonthlyVariation": 0.52,
+      "ThreeMonthVariation": 2.06,
+      "SixMonthVariation": 3.15,
+      "TwelveMonthVariation": 5.17,
+      "YearVariation": 2.06
+    },
+    "4": {
+      "MonthlyVariation": 0.57,
+      "ThreeMonthVariation": 1.88,
+      "SixMonthVariation": 3.45,
+      "TwelveMonthVariation": 5.26,
+      "YearVariation": 2.65
+    },
+    "5": {
+      "MonthlyVariation": 0.43,
+      "ThreeMonthVariation": 1.53,
+      "SixMonthVariation": 3.47,
+      "TwelveMonthVariation": 5.22,
+      "YearVariation": 3.09
+    },
+    "6": {
+      "MonthlyVariation": 0,
+      "ThreeMonthVariation": 1,
+      "SixMonthVariation": 3.09,
+      "TwelveMonthVariation": 4.84,
+      "YearVariation": 3.09
+    },
+    "7": {
+      "MonthlyVariation": 0.01,
+      "ThreeMonthVariation": 0.44,
+      "SixMonthVariation": 2.33,
+      "TwelveMonthVariation": 4.6,
+      "YearVariation": 3.1
+    },
+    "8": {
+      "MonthlyVariation": 0.04,
+      "ThreeMonthVariation": 0.05,
+      "SixMonthVariation": 1.58,
+      "TwelveMonthVariation": 4.49,
+      "YearVariation": 3.14
+    },
+    "9": {
+      "MonthlyVariation": 0.45,
+      "ThreeMonthVariation": 0.5,
+      "SixMonthVariation": 1.51,
+      "TwelveMonthVariation": 4.7,
+      "YearVariation": 3.6
+    },
+    "10": {
+      "MonthlyVariation": 0.75,
+      "ThreeMonthVariation": 1.24,
+      "SixMonthVariation": 1.69,
+      "TwelveMonthVariation": 5.2,
+      "YearVariation": 4.38
+    },
+    "11": {
+      "MonthlyVariation": 0.83,
+      "ThreeMonthVariation": 2.04,
+      "SixMonthVariation": 2.09,
+      "TwelveMonthVariation": 5.63,
+      "YearVariation": 5.25
+    },
+    "12": {
+      "MonthlyVariation": 0.63,
+      "ThreeMonthVariation": 2.23,
+      "SixMonthVariation": 2.74,
+      "TwelveMonthVariation": 5.91,
+      "YearVariation": 5.91
+    }
+  },
+  "2011": {
+    "1": {
+      "MonthlyVariation": 0.83,
+      "ThreeMonthVariation": 2.31,
+      "SixMonthVariation": 3.58,
+      "TwelveMonthVariation": 5.99,
+      "YearVariation": 0.83
+    },
+    "2": {
+      "MonthlyVariation": 0.8,
+      "ThreeMonthVariation": 2.28,
+      "SixMonthVariation": 4.37,
+      "TwelveMonthVariation": 6.01,
+      "YearVariation": 1.64
+    },
+    "3": {
+      "MonthlyVariation": 0.79,
+      "ThreeMonthVariation": 2.44,
+      "SixMonthVariation": 4.72,
+      "TwelveMonthVariation": 6.3,
+      "YearVariation": 2.44
+    },
+    "4": {
+      "MonthlyVariation": 0.77,
+      "ThreeMonthVariation": 2.38,
+      "SixMonthVariation": 4.74,
+      "TwelveMonthVariation": 6.51,
+      "YearVariation": 3.23
+    },
+    "5": {
+      "MonthlyVariation": 0.47,
+      "ThreeMonthVariation": 2.04,
+      "SixMonthVariation": 4.37,
+      "TwelveMonthVariation": 6.55,
+      "YearVariation": 3.71
+    },
+    "6": {
+      "MonthlyVariation": 0.15,
+      "ThreeMonthVariation": 1.4,
+      "SixMonthVariation": 3.87,
+      "TwelveMonthVariation": 6.71,
+      "YearVariation": 3.87
+    },
+    "7": {
+      "MonthlyVariation": 0.16,
+      "ThreeMonthVariation": 0.78,
+      "SixMonthVariation": 3.18,
+      "TwelveMonthVariation": 6.87,
+      "YearVariation": 4.04
+    },
+    "8": {
+      "MonthlyVariation": 0.37,
+      "ThreeMonthVariation": 0.68,
+      "SixMonthVariation": 2.74,
+      "TwelveMonthVariation": 7.23,
+      "YearVariation": 4.42
+    },
+    "9": {
+      "MonthlyVariation": 0.53,
+      "ThreeMonthVariation": 1.06,
+      "SixMonthVariation": 2.47,
+      "TwelveMonthVariation": 7.31,
+      "YearVariation": 4.97
+    },
+    "10": {
+      "MonthlyVariation": 0.43,
+      "ThreeMonthVariation": 1.34,
+      "SixMonthVariation": 2.13,
+      "TwelveMonthVariation": 6.97,
+      "YearVariation": 5.43
+    },
+    "11": {
+      "MonthlyVariation": 0.52,
+      "ThreeMonthVariation": 1.49,
+      "SixMonthVariation": 2.18,
+      "TwelveMonthVariation": 6.64,
+      "YearVariation": 5.97
+    },
+    "12": {
+      "MonthlyVariation": 0.5,
+      "ThreeMonthVariation": 1.46,
+      "SixMonthVariation": 2.54,
+      "TwelveMonthVariation": 6.5,
+      "YearVariation": 6.5
+    }
+  },
+  "2012": {
+    "1": {
+      "MonthlyVariation": 0.56,
+      "ThreeMonthVariation": 1.59,
+      "SixMonthVariation": 2.95,
+      "TwelveMonthVariation": 6.22,
+      "YearVariation": 0.56
+    },
+    "2": {
+      "MonthlyVariation": 0.45,
+      "ThreeMonthVariation": 1.52,
+      "SixMonthVariation": 3.03,
+      "TwelveMonthVariation": 5.85,
+      "YearVariation": 1.01
+    },
+    "3": {
+      "MonthlyVariation": 0.21,
+      "ThreeMonthVariation": 1.22,
+      "SixMonthVariation": 2.7,
+      "TwelveMonthVariation": 5.24,
+      "YearVariation": 1.22
+    },
+    "4": {
+      "MonthlyVariation": 0.64,
+      "ThreeMonthVariation": 1.31,
+      "SixMonthVariation": 2.91,
+      "TwelveMonthVariation": 5.1,
+      "YearVariation": 1.87
+    },
+    "5": {
+      "MonthlyVariation": 0.36,
+      "ThreeMonthVariation": 1.21,
+      "SixMonthVariation": 2.75,
+      "TwelveMonthVariation": 4.99,
+      "YearVariation": 2.24
+    },
+    "6": {
+      "MonthlyVariation": 0.08,
+      "ThreeMonthVariation": 1.08,
+      "SixMonthVariation": 2.32,
+      "TwelveMonthVariation": 4.92,
+      "YearVariation": 2.32
+    },
+    "7": {
+      "MonthlyVariation": 0.43,
+      "ThreeMonthVariation": 0.87,
+      "SixMonthVariation": 2.19,
+      "TwelveMonthVariation": 5.2,
+      "YearVariation": 2.76
+    },
+    "8": {
+      "MonthlyVariation": 0.41,
+      "ThreeMonthVariation": 0.92,
+      "SixMonthVariation": 2.15,
+      "TwelveMonthVariation": 5.24,
+      "YearVariation": 3.18
+    },
+    "9": {
+      "MonthlyVariation": 0.57,
+      "ThreeMonthVariation": 1.42,
+      "SixMonthVariation": 2.51,
+      "TwelveMonthVariation": 5.28,
+      "YearVariation": 3.77
+    },
+    "10": {
+      "MonthlyVariation": 0.59,
+      "ThreeMonthVariation": 1.58,
+      "SixMonthVariation": 2.46,
+      "TwelveMonthVariation": 5.45,
+      "YearVariation": 4.38
+    },
+    "11": {
+      "MonthlyVariation": 0.6,
+      "ThreeMonthVariation": 1.77,
+      "SixMonthVariation": 2.71,
+      "TwelveMonthVariation": 5.53,
+      "YearVariation": 5.01
+    },
+    "12": {
+      "MonthlyVariation": 0.79,
+      "ThreeMonthVariation": 1.99,
+      "SixMonthVariation": 3.44,
+      "TwelveMonthVariation": 5.84,
+      "YearVariation": 5.84
+    }
+  },
+  "2013": {
+    "1": {
+      "MonthlyVariation": 0.86,
+      "ThreeMonthVariation": 2.27,
+      "SixMonthVariation": 3.88,
+      "TwelveMonthVariation": 6.15,
+      "YearVariation": 0.86
+    },
+    "2": {
+      "MonthlyVariation": 0.6,
+      "ThreeMonthVariation": 2.27,
+      "SixMonthVariation": 4.08,
+      "TwelveMonthVariation": 6.31,
+      "YearVariation": 1.47
+    },
+    "3": {
+      "MonthlyVariation": 0.47,
+      "ThreeMonthVariation": 1.94,
+      "SixMonthVariation": 3.97,
+      "TwelveMonthVariation": 6.59,
+      "YearVariation": 1.94
+    },
+    "4": {
+      "MonthlyVariation": 0.55,
+      "ThreeMonthVariation": 1.63,
+      "SixMonthVariation": 3.93,
+      "TwelveMonthVariation": 6.49,
+      "YearVariation": 2.5
+    },
+    "5": {
+      "MonthlyVariation": 0.37,
+      "ThreeMonthVariation": 1.4,
+      "SixMonthVariation": 3.69,
+      "TwelveMonthVariation": 6.5,
+      "YearVariation": 2.88
+    },
+    "6": {
+      "MonthlyVariation": 0.26,
+      "ThreeMonthVariation": 1.18,
+      "SixMonthVariation": 3.15,
+      "TwelveMonthVariation": 6.7,
+      "YearVariation": 3.15
+    },
+    "7": {
+      "MonthlyVariation": 0.03,
+      "ThreeMonthVariation": 0.66,
+      "SixMonthVariation": 2.3,
+      "TwelveMonthVariation": 6.27,
+      "YearVariation": 3.18
+    },
+    "8": {
+      "MonthlyVariation": 0.24,
+      "ThreeMonthVariation": 0.53,
+      "SixMonthVariation": 1.93,
+      "TwelveMonthVariation": 6.09,
+      "YearVariation": 3.43
+    },
+    "9": {
+      "MonthlyVariation": 0.35,
+      "ThreeMonthVariation": 0.62,
+      "SixMonthVariation": 1.81,
+      "TwelveMonthVariation": 5.86,
+      "YearVariation": 3.79
+    },
+    "10": {
+      "MonthlyVariation": 0.57,
+      "ThreeMonthVariation": 1.16,
+      "SixMonthVariation": 1.83,
+      "TwelveMonthVariation": 5.84,
+      "YearVariation": 4.38
+    },
+    "11": {
+      "MonthlyVariation": 0.54,
+      "ThreeMonthVariation": 1.47,
+      "SixMonthVariation": 2.01,
+      "TwelveMonthVariation": 5.77,
+      "YearVariation": 4.95
+    },
+    "12": {
+      "MonthlyVariation": 0.92,
+      "ThreeMonthVariation": 2.04,
+      "SixMonthVariation": 2.68,
+      "TwelveMonthVariation": 5.91,
+      "YearVariation": 5.91
+    }
+  },
+  "2014": {
+    "1": {
+      "MonthlyVariation": 0.55,
+      "ThreeMonthVariation": 2.02,
+      "SixMonthVariation": 3.21,
+      "TwelveMonthVariation": 5.59,
+      "YearVariation": 0.55
+    },
+    "2": {
+      "MonthlyVariation": 0.69,
+      "ThreeMonthVariation": 2.18,
+      "SixMonthVariation": 3.67,
+      "TwelveMonthVariation": 5.68,
+      "YearVariation": 1.24
+    },
+    "3": {
+      "MonthlyVariation": 0.92,
+      "ThreeMonthVariation": 2.18,
+      "SixMonthVariation": 4.26,
+      "TwelveMonthVariation": 6.15,
+      "YearVariation": 2.18
+    },
+    "4": {
+      "MonthlyVariation": 0.67,
+      "ThreeMonthVariation": 2.3,
+      "SixMonthVariation": 4.37,
+      "TwelveMonthVariation": 6.28,
+      "YearVariation": 2.86
+    },
+    "5": {
+      "MonthlyVariation": 0.46,
+      "ThreeMonthVariation": 2.06,
+      "SixMonthVariation": 4.28,
+      "TwelveMonthVariation": 6.37,
+      "YearVariation": 3.33
+    },
+    "6": {
+      "MonthlyVariation": 0.4,
+      "ThreeMonthVariation": 1.54,
+      "SixMonthVariation": 3.75,
+      "TwelveMonthVariation": 6.52,
+      "YearVariation": 3.75
+    },
+    "7": {
+      "MonthlyVariation": 0.01,
+      "ThreeMonthVariation": 0.87,
+      "SixMonthVariation": 3.19,
+      "TwelveMonthVariation": 6.5,
+      "YearVariation": 3.76
+    },
+    "8": {
+      "MonthlyVariation": 0.25,
+      "ThreeMonthVariation": 0.66,
+      "SixMonthVariation": 2.74,
+      "TwelveMonthVariation": 6.51,
+      "YearVariation": 4.02
+    },
+    "9": {
+      "MonthlyVariation": 0.57,
+      "ThreeMonthVariation": 0.83,
+      "SixMonthVariation": 2.38,
+      "TwelveMonthVariation": 6.75,
+      "YearVariation": 4.61
+    },
+    "10": {
+      "MonthlyVariation": 0.42,
+      "ThreeMonthVariation": 1.24,
+      "SixMonthVariation": 2.13,
+      "TwelveMonthVariation": 6.59,
+      "YearVariation": 5.05
+    },
+    "11": {
+      "MonthlyVariation": 0.51,
+      "ThreeMonthVariation": 1.51,
+      "SixMonthVariation": 2.18,
+      "TwelveMonthVariation": 6.56,
+      "YearVariation": 5.58
+    },
+    "12": {
+      "MonthlyVariation": 0.78,
+      "ThreeMonthVariation": 1.72,
+      "SixMonthVariation": 2.57,
+      "TwelveMonthVariation": 6.41,
+      "YearVariation": 6.41
+    }
+  },
+  "2015": {
+    "1": {
+      "MonthlyVariation": 1.24,
+      "ThreeMonthVariation": 2.55,
+      "SixMonthVariation": 3.83,
+      "TwelveMonthVariation": 7.14,
+      "YearVariation": 1.24
+    },
+    "2": {
+      "MonthlyVariation": 1.22,
+      "ThreeMonthVariation": 3.27,
+      "SixMonthVariation": 4.83,
+      "TwelveMonthVariation": 7.7,
+      "YearVariation": 2.48
+    },
+    "3": {
+      "MonthlyVariation": 1.32,
+      "ThreeMonthVariation": 3.83,
+      "SixMonthVariation": 5.61,
+      "TwelveMonthVariation": 8.13,
+      "YearVariation": 3.83
+    },
+    "4": {
+      "MonthlyVariation": 0.71,
+      "ThreeMonthVariation": 3.28,
+      "SixMonthVariation": 5.92,
+      "TwelveMonthVariation": 8.17,
+      "YearVariation": 4.56
+    },
+    "5": {
+      "MonthlyVariation": 0.74,
+      "ThreeMonthVariation": 2.79,
+      "SixMonthVariation": 6.16,
+      "TwelveMonthVariation": 8.47,
+      "YearVariation": 5.34
+    },
+    "6": {
+      "MonthlyVariation": 0.79,
+      "ThreeMonthVariation": 2.26,
+      "SixMonthVariation": 6.17,
+      "TwelveMonthVariation": 8.89,
+      "YearVariation": 6.17
+    },
+    "7": {
+      "MonthlyVariation": 0.62,
+      "ThreeMonthVariation": 2.17,
+      "SixMonthVariation": 5.52,
+      "TwelveMonthVariation": 9.56,
+      "YearVariation": 6.83
+    },
+    "8": {
+      "MonthlyVariation": 0.22,
+      "ThreeMonthVariation": 1.64,
+      "SixMonthVariation": 4.48,
+      "TwelveMonthVariation": 9.53,
+      "YearVariation": 7.06
+    },
+    "9": {
+      "MonthlyVariation": 0.54,
+      "ThreeMonthVariation": 1.39,
+      "SixMonthVariation": 3.67,
+      "TwelveMonthVariation": 9.49,
+      "YearVariation": 7.64
+    },
+    "10": {
+      "MonthlyVariation": 0.82,
+      "ThreeMonthVariation": 1.59,
+      "SixMonthVariation": 3.79,
+      "TwelveMonthVariation": 9.93,
+      "YearVariation": 8.52
+    },
+    "11": {
+      "MonthlyVariation": 1.01,
+      "ThreeMonthVariation": 2.39,
+      "SixMonthVariation": 4.07,
+      "TwelveMonthVariation": 10.48,
+      "YearVariation": 9.62
+    },
+    "12": {
+      "MonthlyVariation": 0.96,
+      "ThreeMonthVariation": 2.82,
+      "SixMonthVariation": 4.24,
+      "TwelveMonthVariation": 10.67,
+      "YearVariation": 10.67
+    }
+  },
+  "2016": {
+    "1": {
+      "MonthlyVariation": 1.27,
+      "ThreeMonthVariation": 3.27,
+      "SixMonthVariation": 4.91,
+      "TwelveMonthVariation": 10.71,
+      "YearVariation": 1.27
+    },
+    "2": {
+      "MonthlyVariation": 0.9,
+      "ThreeMonthVariation": 3.16,
+      "SixMonthVariation": 5.63,
+      "TwelveMonthVariation": 10.36,
+      "YearVariation": 2.18
+    },
+    "3": {
+      "MonthlyVariation": 0.43,
+      "ThreeMonthVariation": 2.62,
+      "SixMonthVariation": 5.51,
+      "TwelveMonthVariation": 9.39,
+      "YearVariation": 2.62
+    },
+    "4": {
+      "MonthlyVariation": 0.61,
+      "ThreeMonthVariation": 1.95,
+      "SixMonthVariation": 5.29,
+      "TwelveMonthVariation": 9.28,
+      "YearVariation": 3.25
+    },
+    "5": {
+      "MonthlyVariation": 0.78,
+      "ThreeMonthVariation": 1.83,
+      "SixMonthVariation": 5.05,
+      "TwelveMonthVariation": 9.32,
+      "YearVariation": 4.05
+    },
+    "6": {
+      "MonthlyVariation": 0.35,
+      "ThreeMonthVariation": 1.75,
+      "SixMonthVariation": 4.42,
+      "TwelveMonthVariation": 8.84,
+      "YearVariation": 4.42
+    },
+    "7": {
+      "MonthlyVariation": 0.52,
+      "ThreeMonthVariation": 1.66,
+      "SixMonthVariation": 3.64,
+      "TwelveMonthVariation": 8.74,
+      "YearVariation": 4.96
+    },
+    "8": {
+      "MonthlyVariation": 0.44,
+      "ThreeMonthVariation": 1.32,
+      "SixMonthVariation": 3.17,
+      "TwelveMonthVariation": 8.97,
+      "YearVariation": 5.42
+    },
+    "9": {
+      "MonthlyVariation": 0.08,
+      "ThreeMonthVariation": 1.04,
+      "SixMonthVariation": 2.81,
+      "TwelveMonthVariation": 8.48,
+      "YearVariation": 5.51
+    },
+    "10": {
+      "MonthlyVariation": 0.26,
+      "ThreeMonthVariation": 0.78,
+      "SixMonthVariation": 2.45,
+      "TwelveMonthVariation": 7.87,
+      "YearVariation": 5.78
+    },
+    "11": {
+      "MonthlyVariation": 0.18,
+      "ThreeMonthVariation": 0.52,
+      "SixMonthVariation": 1.84,
+      "TwelveMonthVariation": 6.99,
+      "YearVariation": 5.97
+    },
+    "12": {
+      "MonthlyVariation": 0.3,
+      "ThreeMonthVariation": 0.74,
+      "SixMonthVariation": 1.79,
+      "TwelveMonthVariation": 6.29,
+      "YearVariation": 6.29
+    }
+  },
+  "2017": {
+    "1": {
+      "MonthlyVariation": 0.38,
+      "ThreeMonthVariation": 0.86,
+      "SixMonthVariation": 1.65,
+      "TwelveMonthVariation": 5.35,
+      "YearVariation": 0.38
+    },
+    "2": {
+      "MonthlyVariation": 0.33,
+      "ThreeMonthVariation": 1.01,
+      "SixMonthVariation": 1.54,
+      "TwelveMonthVariation": 4.76,
+      "YearVariation": 0.71
+    },
+    "3": {
+      "MonthlyVariation": 0.25,
+      "ThreeMonthVariation": 0.96,
+      "SixMonthVariation": 1.71,
+      "TwelveMonthVariation": 4.57,
+      "YearVariation": 0.96
+    },
+    "4": {
+      "MonthlyVariation": 0.14,
+      "ThreeMonthVariation": 0.72,
+      "SixMonthVariation": 1.59,
+      "TwelveMonthVariation": 4.08,
+      "YearVariation": 1.1
+    },
+    "5": {
+      "MonthlyVariation": 0.31,
+      "ThreeMonthVariation": 0.7,
+      "SixMonthVariation": 1.72,
+      "TwelveMonthVariation": 3.6,
+      "YearVariation": 1.42
+    },
+    "6": {
+      "MonthlyVariation": -0.23,
+      "ThreeMonthVariation": 0.22,
+      "SixMonthVariation": 1.18,
+      "TwelveMonthVariation": 3,
+      "YearVariation": 1.18
+    },
+    "7": {
+      "MonthlyVariation": 0.24,
+      "ThreeMonthVariation": 0.32,
+      "SixMonthVariation": 1.04,
+      "TwelveMonthVariation": 2.71,
+      "YearVariation": 1.43
+    },
+    "8": {
+      "MonthlyVariation": 0.19,
+      "ThreeMonthVariation": 0.2,
+      "SixMonthVariation": 0.9,
+      "TwelveMonthVariation": 2.46,
+      "YearVariation": 1.62
+    },
+    "9": {
+      "MonthlyVariation": 0.16,
+      "ThreeMonthVariation": 0.59,
+      "SixMonthVariation": 0.81,
+      "TwelveMonthVariation": 2.54,
+      "YearVariation": 1.78
+    },
+    "10": {
+      "MonthlyVariation": 0.42,
+      "ThreeMonthVariation": 0.77,
+      "SixMonthVariation": 1.09,
+      "TwelveMonthVariation": 2.7,
+      "YearVariation": 2.21
+    },
+    "11": {
+      "MonthlyVariation": 0.28,
+      "ThreeMonthVariation": 0.86,
+      "SixMonthVariation": 1.06,
+      "TwelveMonthVariation": 2.8,
+      "YearVariation": 2.5
+    },
+    "12": {
+      "MonthlyVariation": 0.44,
+      "ThreeMonthVariation": 1.14,
+      "SixMonthVariation": 1.74,
+      "TwelveMonthVariation": 2.95,
+      "YearVariation": 2.95
+    }
+  },
+  "2018": {
+    "1": {
+      "MonthlyVariation": 0.29,
+      "ThreeMonthVariation": 1.01,
+      "SixMonthVariation": 1.79,
+      "TwelveMonthVariation": 2.86,
+      "YearVariation": 0.29
+    },
+    "2": {
+      "MonthlyVariation": 0.32,
+      "ThreeMonthVariation": 1.05,
+      "SixMonthVariation": 1.93,
+      "TwelveMonthVariation": 2.84,
+      "YearVariation": 0.61
+    },
+    "3": {
+      "MonthlyVariation": 0.09,
+      "ThreeMonthVariation": 0.7,
+      "SixMonthVariation": 1.85,
+      "TwelveMonthVariation": 2.68,
+      "YearVariation": 0.7
+    },
+    "4": {
+      "MonthlyVariation": 0.22,
+      "ThreeMonthVariation": 0.63,
+      "SixMonthVariation": 1.65,
+      "TwelveMonthVariation": 2.76,
+      "YearVariation": 0.92
+    },
+    "5": {
+      "MonthlyVariation": 0.4,
+      "ThreeMonthVariation": 0.71,
+      "SixMonthVariation": 1.77,
+      "TwelveMonthVariation": 2.86,
+      "YearVariation": 1.33
+    },
+    "6": {
+      "MonthlyVariation": 1.26,
+      "ThreeMonthVariation": 1.89,
+      "SixMonthVariation": 2.6,
+      "TwelveMonthVariation": 4.39,
+      "YearVariation": 2.6
+    },
+    "7": {
+      "MonthlyVariation": 0.33,
+      "ThreeMonthVariation": 2,
+      "SixMonthVariation": 2.64,
+      "TwelveMonthVariation": 4.48,
+      "YearVariation": 2.94
+    },
+    "8": {
+      "MonthlyVariation": -0.09,
+      "ThreeMonthVariation": 1.5,
+      "SixMonthVariation": 2.23,
+      "TwelveMonthVariation": 4.19,
+      "YearVariation": 2.85
+    },
+    "9": {
+      "MonthlyVariation": 0.48,
+      "ThreeMonthVariation": 0.72,
+      "SixMonthVariation": 2.62,
+      "TwelveMonthVariation": 4.53,
+      "YearVariation": 3.34
+    },
+    "10": {
+      "MonthlyVariation": 0.45,
+      "ThreeMonthVariation": 0.84,
+      "SixMonthVariation": 2.86,
+      "TwelveMonthVariation": 4.56,
+      "YearVariation": 3.81
+    },
+    "11": {
+      "MonthlyVariation": -0.21,
+      "ThreeMonthVariation": 0.72,
+      "SixMonthVariation": 2.23,
+      "TwelveMonthVariation": 4.05,
+      "YearVariation": 3.59
+    },
+    "12": {
+      "MonthlyVariation": 0.15,
+      "ThreeMonthVariation": 0.39,
+      "SixMonthVariation": 1.11,
+      "TwelveMonthVariation": 3.75,
+      "YearVariation": 3.75
+    }
+  },
+  "2019": {
+    "1": {
+      "MonthlyVariation": 0.32,
+      "ThreeMonthVariation": 0.26,
+      "SixMonthVariation": 1.1,
+      "TwelveMonthVariation": 3.78,
+      "YearVariation": 0.32
+    },
+    "2": {
+      "MonthlyVariation": 0.43,
+      "ThreeMonthVariation": 0.9,
+      "SixMonthVariation": 1.63,
+      "TwelveMonthVariation": 3.89,
+      "YearVariation": 0.75
+    },
+    "3": {
+      "MonthlyVariation": 0.75,
+      "ThreeMonthVariation": 1.51,
+      "SixMonthVariation": 1.9,
+      "TwelveMonthVariation": 4.58,
+      "YearVariation": 1.51
+    },
+    "4": {
+      "MonthlyVariation": 0.57,
+      "ThreeMonthVariation": 1.76,
+      "SixMonthVariation": 2.02,
+      "TwelveMonthVariation": 4.94,
+      "YearVariation": 2.09
+    },
+    "5": {
+      "MonthlyVariation": 0.13,
+      "ThreeMonthVariation": 1.46,
+      "SixMonthVariation": 2.37,
+      "TwelveMonthVariation": 4.66,
+      "YearVariation": 2.22
+    },
+    "6": {
+      "MonthlyVariation": 0.01,
+      "ThreeMonthVariation": 0.71,
+      "SixMonthVariation": 2.23,
+      "TwelveMonthVariation": 3.37,
+      "YearVariation": 2.23
+    },
+    "7": {
+      "MonthlyVariation": 0.19,
+      "ThreeMonthVariation": 0.33,
+      "SixMonthVariation": 2.1,
+      "TwelveMonthVariation": 3.22,
+      "YearVariation": 2.42
+    },
+    "8": {
+      "MonthlyVariation": 0.11,
+      "ThreeMonthVariation": 0.31,
+      "SixMonthVariation": 1.77,
+      "TwelveMonthVariation": 3.43,
+      "YearVariation": 2.54
+    },
+    "9": {
+      "MonthlyVariation": -0.04,
+      "ThreeMonthVariation": 0.26,
+      "SixMonthVariation": 0.97,
+      "TwelveMonthVariation": 2.89,
+      "YearVariation": 2.49
+    },
+    "10": {
+      "MonthlyVariation": 0.1,
+      "ThreeMonthVariation": 0.17,
+      "SixMonthVariation": 0.5,
+      "TwelveMonthVariation": 2.54,
+      "YearVariation": 2.6
+    },
+    "11": {
+      "MonthlyVariation": 0.51,
+      "ThreeMonthVariation": 0.57,
+      "SixMonthVariation": 0.88,
+      "TwelveMonthVariation": 3.27,
+      "YearVariation": 3.12
+    },
+    "12": {
+      "MonthlyVariation": 1.15,
+      "ThreeMonthVariation": 1.77,
+      "SixMonthVariation": 2.03,
+      "TwelveMonthVariation": 4.31,
+      "YearVariation": 4.31
+    }
+  },
+  "2020": {
+    "1": {
+      "MonthlyVariation": 0.21,
+      "ThreeMonthVariation": 1.88,
+      "SixMonthVariation": 2.05,
+      "TwelveMonthVariation": 4.19,
+      "YearVariation": 0.21
+    },
+    "2": {
+      "MonthlyVariation": 0.25,
+      "ThreeMonthVariation": 1.62,
+      "SixMonthVariation": 2.2,
+      "TwelveMonthVariation": 4.01,
+      "YearVariation": 0.46
+    },
+    "3": {
+      "MonthlyVariation": 0.07,
+      "ThreeMonthVariation": 0.53,
+      "SixMonthVariation": 2.31,
+      "TwelveMonthVariation": 3.3,
+      "YearVariation": 0.53
+    },
+    "4": {
+      "MonthlyVariation": -0.31,
+      "ThreeMonthVariation": 0.01,
+      "SixMonthVariation": 1.89,
+      "TwelveMonthVariation": 2.4,
+      "YearVariation": 0.22
+    },
+    "5": {
+      "MonthlyVariation": -0.38,
+      "ThreeMonthVariation": -0.62,
+      "SixMonthVariation": 0.99,
+      "TwelveMonthVariation": 1.88,
+      "YearVariation": -0.16
+    },
+    "6": {
+      "MonthlyVariation": 0.26,
+      "ThreeMonthVariation": -0.43,
+      "SixMonthVariation": 0.1,
+      "TwelveMonthVariation": 2.13,
+      "YearVariation": 0.1
+    },
+    "7": {
+      "MonthlyVariation": 0.36,
+      "ThreeMonthVariation": 0.24,
+      "SixMonthVariation": 0.25,
+      "TwelveMonthVariation": 2.31,
+      "YearVariation": 0.46
+    },
+    "8": {
+      "MonthlyVariation": 0.24,
+      "ThreeMonthVariation": 0.86,
+      "SixMonthVariation": 0.24,
+      "TwelveMonthVariation": 2.44,
+      "YearVariation": 0.7
+    },
+    "9": {
+      "MonthlyVariation": 0.64,
+      "ThreeMonthVariation": 1.24,
+      "SixMonthVariation": 0.81,
+      "TwelveMonthVariation": 3.14,
+      "YearVariation": 1.34
+    },
+    "10": {
+      "MonthlyVariation": 0.86,
+      "ThreeMonthVariation": 1.75,
+      "SixMonthVariation": 1.99,
+      "TwelveMonthVariation": 3.92,
+      "YearVariation": 2.22
+    },
+    "11": {
+      "MonthlyVariation": 0.89,
+      "ThreeMonthVariation": 2.41,
+      "SixMonthVariation": 3.29,
+      "TwelveMonthVariation": 4.31,
+      "YearVariation": 3.13
+    },
+    "12": {
+      "MonthlyVariation": 1.35,
+      "ThreeMonthVariation": 3.13,
+      "SixMonthVariation": 4.42,
+      "TwelveMonthVariation": 4.52,
+      "YearVariation": 4.52
+    }
+  },
+  "2021": {
+    "1": {
+      "MonthlyVariation": 0.25,
+      "ThreeMonthVariation": 2.51,
+      "SixMonthVariation": 4.3,
+      "TwelveMonthVariation": 4.56,
+      "YearVariation": 0.25
+    },
+    "2": {
+      "MonthlyVariation": 0.86,
+      "ThreeMonthVariation": 2.48,
+      "SixMonthVariation": 4.95,
+      "TwelveMonthVariation": 5.2,
+      "YearVariation": 1.11
+    },
+    "3": {
+      "MonthlyVariation": 0.93,
+      "ThreeMonthVariation": 2.05,
+      "SixMonthVariation": 5.25,
+      "TwelveMonthVariation": 6.1,
+      "YearVariation": 2.05
+    },
+    "4": {
+      "MonthlyVariation": 0.31,
+      "ThreeMonthVariation": 2.11,
+      "SixMonthVariation": 4.67,
+      "TwelveMonthVariation": 6.76,
+      "YearVariation": 2.37
+    },
+    "5": {
+      "MonthlyVariation": 0.83,
+      "ThreeMonthVariation": 2.08,
+      "SixMonthVariation": 4.61,
+      "TwelveMonthVariation": 8.06,
+      "YearVariation": 3.22
+    },
+    "6": {
+      "MonthlyVariation": 0.53,
+      "ThreeMonthVariation": 1.68,
+      "SixMonthVariation": 3.77,
+      "TwelveMonthVariation": 8.35,
+      "YearVariation": 3.77
+    },
+    "7": {
+      "MonthlyVariation": 0.96,
+      "ThreeMonthVariation": 2.34,
+      "SixMonthVariation": 4.5,
+      "TwelveMonthVariation": 8.99,
+      "YearVariation": 4.76
+    },
+    "8": {
+      "MonthlyVariation": 0.87,
+      "ThreeMonthVariation": 2.38,
+      "SixMonthVariation": 4.51,
+      "TwelveMonthVariation": 9.68,
+      "YearVariation": 5.67
+    },
+    "9": {
+      "MonthlyVariation": 1.16,
+      "ThreeMonthVariation": 3.02,
+      "SixMonthVariation": 4.75,
+      "TwelveMonthVariation": 10.25,
+      "YearVariation": 6.9
+    },
+    "10": {
+      "MonthlyVariation": 1.25,
+      "ThreeMonthVariation": 3.32,
+      "SixMonthVariation": 5.73,
+      "TwelveMonthVariation": 10.67,
+      "YearVariation": 8.24
+    },
+    "11": {
+      "MonthlyVariation": 0.95,
+      "ThreeMonthVariation": 3.4,
+      "SixMonthVariation": 5.86,
+      "TwelveMonthVariation": 10.74,
+      "YearVariation": 9.26
+    },
+    "12": {
+      "MonthlyVariation": 0.73,
+      "ThreeMonthVariation": 2.96,
+      "SixMonthVariation": 6.07,
+      "TwelveMonthVariation": 10.06,
+      "YearVariation": 10.06
+    }
+  },
+  "2022": {
+    "1": {
+      "MonthlyVariation": 0.54,
+      "ThreeMonthVariation": 2.24,
+      "SixMonthVariation": 5.63,
+      "TwelveMonthVariation": 10.38,
+      "YearVariation": 0.54
+    },
+    "2": {
+      "MonthlyVariation": 1.01,
+      "ThreeMonthVariation": 2.3,
+      "SixMonthVariation": 5.77,
+      "TwelveMonthVariation": 10.54,
+      "YearVariation": 1.56
+    },
+    "3": {
+      "MonthlyVariation": 1.62,
+      "ThreeMonthVariation": 3.2,
+      "SixMonthVariation": 6.25,
+      "TwelveMonthVariation": 11.3,
+      "YearVariation": 3.2
+    },
+    "4": {
+      "MonthlyVariation": 1.06,
+      "ThreeMonthVariation": 3.73,
+      "SixMonthVariation": 6.05,
+      "TwelveMonthVariation": 12.13,
+      "YearVariation": 4.29
+    },
+    "5": {
+      "MonthlyVariation": 0.47,
+      "ThreeMonthVariation": 3.18,
+      "SixMonthVariation": 5.55,
+      "TwelveMonthVariation": 11.73,
+      "YearVariation": 4.78
+    },
+    "6": {
+      "MonthlyVariation": 0.67,
+      "ThreeMonthVariation": 2.22,
+      "SixMonthVariation": 5.49,
+      "TwelveMonthVariation": 11.89,
+      "YearVariation": 5.49
+    },
+    "7": {
+      "MonthlyVariation": -0.68,
+      "ThreeMonthVariation": 0.46,
+      "SixMonthVariation": 4.21,
+      "TwelveMonthVariation": 10.07,
+      "YearVariation": 4.77
+    },
+    "8": {
+      "MonthlyVariation": -0.36,
+      "ThreeMonthVariation": -0.37,
+      "SixMonthVariation": 2.79,
+      "TwelveMonthVariation": 8.73,
+      "YearVariation": 4.39
+    },
+    "9": {
+      "MonthlyVariation": -0.29,
+      "ThreeMonthVariation": -1.32,
+      "SixMonthVariation": 0.86,
+      "TwelveMonthVariation": 7.17,
+      "YearVariation": 4.09
+    },
+    "10": {
+      "MonthlyVariation": 0.59,
+      "ThreeMonthVariation": -0.06,
+      "SixMonthVariation": 0.39,
+      "TwelveMonthVariation": 6.47,
+      "YearVariation": 4.7
+    },
+    "11": {
+      "MonthlyVariation": 0.41,
+      "ThreeMonthVariation": 0.71,
+      "SixMonthVariation": 0.33,
+      "TwelveMonthVariation": 5.9,
+      "YearVariation": 5.13
+    },
+    "12": {
+      "MonthlyVariation": 0.62,
+      "ThreeMonthVariation": 1.63,
+      "SixMonthVariation": 0.28,
+      "TwelveMonthVariation": 5.79,
+      "YearVariation": 5.79
+    }
+  },
+  "2023": {
+    "1": {
+      "MonthlyVariation": 0.53,
+      "ThreeMonthVariation": 1.57,
+      "SixMonthVariation": 1.5,
+      "TwelveMonthVariation": 5.77,
+      "YearVariation": 0.53
+    },
+    "2": {
+      "MonthlyVariation": 0.84,
+      "ThreeMonthVariation": 2,
+      "SixMonthVariation": 2.73,
+      "TwelveMonthVariation": 5.6,
+      "YearVariation": 1.37
+    },
+    "3": {
+      "MonthlyVariation": 0.71,
+      "ThreeMonthVariation": 2.09,
+      "SixMonthVariation": 3.76,
+      "TwelveMonthVariation": 4.65,
+      "YearVariation": 2.09
+    },
+    "4": {
+      "MonthlyVariation": 0.61,
+      "ThreeMonthVariation": 2.18,
+      "SixMonthVariation": 3.78,
+      "TwelveMonthVariation": 4.18,
+      "YearVariation": 2.72
+    },
+    "5": {
+      "MonthlyVariation": 0.23,
+      "ThreeMonthVariation": 1.56,
+      "SixMonthVariation": 3.59,
+      "TwelveMonthVariation": 3.94,
+      "YearVariation": 2.95
+    },
+    "6": {
+      "MonthlyVariation": -0.08,
+      "ThreeMonthVariation": 0.76,
+      "SixMonthVariation": 2.87,
+      "TwelveMonthVariation": 3.16,
+      "YearVariation": 2.87
+    },
+    "7": {
+      "MonthlyVariation": 0.12,
+      "ThreeMonthVariation": 0.27,
+      "SixMonthVariation": 2.45,
+      "TwelveMonthVariation": 3.99,
+      "YearVariation": 2.99
+    },
+    "8": {
+      "MonthlyVariation": 0.23,
+      "ThreeMonthVariation": 0.27,
+      "SixMonthVariation": 1.83,
+      "TwelveMonthVariation": 4.61,
+      "YearVariation": 3.23
+    },
+    "9": {
+      "MonthlyVariation": 0.26,
+      "ThreeMonthVariation": 0.61,
+      "SixMonthVariation": 1.38,
+      "TwelveMonthVariation": 5.19,
+      "YearVariation": 3.5
+    },
+    "10": {
+      "MonthlyVariation": 0.24,
+      "ThreeMonthVariation": 0.73,
+      "SixMonthVariation": 1,
+      "TwelveMonthVariation": 4.82,
+      "YearVariation": 3.75
+    },
+    "11": {
+      "MonthlyVariation": 0.28,
+      "ThreeMonthVariation": 0.78,
+      "SixMonthVariation": 1.05,
+      "TwelveMonthVariation": 4.68,
+      "YearVariation": 4.04
+    },
+    "12": {
+      "MonthlyVariation": 0.56,
+      "ThreeMonthVariation": 1.08,
+      "SixMonthVariation": 1.7,
+      "TwelveMonthVariation": 4.62,
+      "YearVariation": 4.62
+    }
+  },
+  "2024": {
+    "1": {
+      "MonthlyVariation": 0.42,
+      "ThreeMonthVariation": 1.27,
+      "SixMonthVariation": 2.01,
+      "TwelveMonthVariation": 4.51,
+      "YearVariation": 0.42
+    },
+    "2": {
+      "MonthlyVariation": 0.83,
+      "ThreeMonthVariation": 1.82,
+      "SixMonthVariation": 2.62,
+      "TwelveMonthVariation": 4.5,
+      "YearVariation": 1.25
+    },
+    "3": {
+      "MonthlyVariation": 0.16,
+      "ThreeMonthVariation": 1.42,
+      "SixMonthVariation": 2.51,
+      "TwelveMonthVariation": 3.93,
+      "YearVariation": 1.42
+    },
+    "4": {
+      "MonthlyVariation": 0.38,
+      "ThreeMonthVariation": 1.37,
+      "SixMonthVariation": 2.66,
+      "TwelveMonthVariation": 3.69,
+      "YearVariation": 1.8
+    },
+    "5": {
+      "MonthlyVariation": 0.46,
+      "ThreeMonthVariation": 1,
+      "SixMonthVariation": 2.84,
+      "TwelveMonthVariation": 3.93,
+      "YearVariation": 2.27
+    },
+    "6": {
+      "MonthlyVariation": 0.21,
+      "ThreeMonthVariation": 1.05,
+      "SixMonthVariation": 2.48,
+      "TwelveMonthVariation": 4.23,
+      "YearVariation": 2.48
+    },
+    "7": {
+      "MonthlyVariation": 0.38,
+      "ThreeMonthVariation": 1.05,
+      "SixMonthVariation": 2.44,
+      "TwelveMonthVariation": 4.5,
+      "YearVariation": 2.87
+    },
+    "8": {
+      "MonthlyVariation": -0.02,
+      "ThreeMonthVariation": 0.57,
+      "SixMonthVariation": 1.58,
+      "TwelveMonthVariation": 4.24,
+      "YearVariation": 2.85
+    },
+    "9": {
+      "MonthlyVariation": 0.44,
+      "ThreeMonthVariation": 0.8,
+      "SixMonthVariation": 1.86,
+      "TwelveMonthVariation": 4.42,
+      "YearVariation": 3.31
+    },
+    "10": {
+      "MonthlyVariation": 0.56,
+      "ThreeMonthVariation": 0.98,
+      "SixMonthVariation": 2.05,
+      "TwelveMonthVariation": 4.76,
+      "YearVariation": 3.88
+    },
+    "11": {
+      "MonthlyVariation": 0.39,
+      "ThreeMonthVariation": 1.4,
+      "SixMonthVariation": 1.98,
+      "TwelveMonthVariation": 4.87,
+      "YearVariation": 4.29
+    },
+    "12": {
+      "MonthlyVariation": 0.52,
+      "ThreeMonthVariation": 1.48,
+      "SixMonthVariation": 2.29,
+      "TwelveMonthVariation": 4.83,
+      "YearVariation": 4.83
+    }
+  }
+}
